@@ -1,0 +1,4 @@
+com\learn\torostore\entities\User.class
+com\learn\torostore\entities\Category.class
+com\learn\torostore\entities\Product.class
+com\learn\torostore\helper\FactoryProvider.class
